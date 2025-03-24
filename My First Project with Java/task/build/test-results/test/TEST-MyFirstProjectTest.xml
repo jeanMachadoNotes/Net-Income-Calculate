@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyFirstProjectTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-24T13:24:19" hostname="Mac.lan" time="0.036">
+  <properties/>
+  <testcase name="start" classname="MyFirstProjectTest" time="0.036"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Earned amount:
+Bubblegum: $202.0
+Toffee: $118.0
+Ice Cream: $2250.0
+Milk Chocolate: $1680.0
+Doughnut: $1075.0
+Pancake: $80.0
+Income: $5405.00
+Staff Expenses: 
+> 4170
+Other Expenses: 
+> 220
+Net Income: $1015.00
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

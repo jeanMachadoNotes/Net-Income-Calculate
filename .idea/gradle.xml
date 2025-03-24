@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/My First Project with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Calculating average speed from distance and time" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Discount dilemma  The price puzzle" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Java Arithmetic Operations Magic" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Parentheses" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Slice and dice your price tag" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Find the next Unicode character" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increase, decrease and increase an integer" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment, decrement, then double n" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Remainder of division" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Desks" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/From hourly grind to yearly gold" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Match operations and their meanings" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Squirrels and nuts" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/From cryptic to crystal  Weather's facelift" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Perform calculator operations on two fixed integers" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/The best name for a variable" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/The last symbol of a name" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Naming variables/Valid and invalid names" />
+            <option value="$PROJECT_DIR$/Topics/String/Appending strings and ints" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a character" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a specific character from a greeting message" />
+            <option value="$PROJECT_DIR$/Topics/String/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Topics/String/Fixing code to display a character from a string" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
